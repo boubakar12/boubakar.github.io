@@ -453,6 +453,7 @@ p {
   background-color: rgba(0, 0, 0, 0.5);
   border: none;
   border-radius: 5px;
+  -webkit-user-select: none;
   user-select: none;
   z-index: 1000;
   transition: 0.3s;
